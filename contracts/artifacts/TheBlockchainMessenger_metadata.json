@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TheBlockchainMessenger.sol": "TheBlockchainMessenger"
+			"contracts/GasGolf.sol": "TheBlockchainMessenger"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -90,7 +90,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/TheBlockchainMessenger.sol": {
+		"contracts/GasGolf.sol": {
 			"keccak256": "0xb6276b7e3cfcdac471e79c552af7ad37128c48d4ffb60648b33aabdf0449941a",
 			"license": "MIT",
 			"urls": [
